@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MichaelPE16
-- 👀 I’m interested in Coding and learning
-- 🌱 I’m currently learning c++, python, managing databases and framewors like Django
-- 💞️ I’m looking to collaborate on Tech-comp.
+- 👀 I’m interested in Coding and learning new stuff
+- 🌱 I’m currently learning python, managing databases and frameworks like Django
+- 💞️ I’m looking to collaborate.
 - 📫 How to reach me rafael112216@gmail.com
 
 <!---
