@@ -15,7 +15,7 @@
 
 
 ## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/michael-pacheco-encarnacion/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]((https://www.linkedin.com/in/michael-pacheco-encarnacion/))
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/MichaelPE16)
 
 <!---
