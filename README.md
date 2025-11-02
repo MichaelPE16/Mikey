@@ -12,9 +12,9 @@
 - **Databases:** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![SqlServer](https://img.shields.io/badge/SqlServer-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ## Projects
-- **Project 1:** [Project Name](#) - Brief description of the project.
-- **Project 2:** [Project Name](#) - Brief description of the project.
-- **Project 3:** [Project Name](#) - Brief description of the project.
+- **Project 1:** [GDMFX](https://github.com/MichaelPE16/Practica_Final) - Brief description of the project.
+- **Project 2:** [Personal Portfolio](https://github.com/MichaelPE16/Portfolio) - Brief description of the project.
+- **Project 3:** [Terninal RentCar](https://github.com/MichaelPE16/Rent_Car_Terminal/tree/main) - Brief description of the project.
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-pacheco-encarnacion/)
